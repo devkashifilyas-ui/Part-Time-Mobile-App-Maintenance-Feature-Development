@@ -1,6 +1,6 @@
 # WorkFlow Pro — Mobile App Maintenance & DocuSign Integration Demo
 
-> **Upwork Proposal Demo** — built to demonstrate mobile app maintenance capabilities and DocuSign integration for a part-time, long-term development role.
+> **Demo** — built to demonstrate mobile app maintenance capabilities and DocuSign integration for a part-time, long-term development role.
 
 ---
 
@@ -32,19 +32,6 @@ A fully interactive mobile app UI walkthrough across 4 steps:
 The right panel shows the **architecture layer** (Mobile App → Service Layer → DocuSign API) and highlights the DocuSign layer when the webhook fires — making the integration structure immediately visible to the client.
 
 ---
-
-## Project Context
-
-This demo was built for an Upwork proposal targeting:
-
-- **Role:** Part-time mobile app maintenance & feature development
-- **Client:** Long-term Upwork client, $450K+ spent, 5.0 rating
-- **Stack:** iOS (Swift), Android (Java), JavaScript, DocuSign integration
-- **Rate:** $20/hr
-- **Duration:** Long-term (6+ months, <30 hrs/week)
-
----
-
 ## Execution Plan
 
 ### Phase 1 — Application Audit (6 hrs)
@@ -128,20 +115,8 @@ workflow-pro-demo/
 
 ---
 
-## Proposal Summary
-
-**Hi Mark,**
-
-I've reviewed your job post and your Upwork history — 10 years, $450K+ spent, and several long-running engineering contracts. That tells me you value reliability and developers who become true long-term partners.
-
-My background is a direct match: maintained iOS and Android applications, managed DocuSign integrations (envelope creation, signing flows, webhook callbacks), and kept apps stable across major OS release cycles.
-
 **Week 1:** Full codebase audit — architecture review, dependency health, integration layer mapping — delivered as a written findings report before I touch anything.
 
 **Ongoing:** Feature work in isolated branches, regression checks before merging, DocuSign maintained as a clean service layer, proactive OS compatibility checks ahead of Apple/Google releases.
 
 Rate: **$20/hr** — available immediately.
-
----
-
-*Demo built with vanilla HTML/CSS/JS — no frameworks, loads instantly in any browser.*
